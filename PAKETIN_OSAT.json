@@ -1,0 +1,27 @@
+{
+  "output": "HOLO-Mobile-v0.6.1.2-diagnostics-kit.zip",
+  "bytes": 160028372,
+  "sha256": "3804d76c053386597a4f1cd3cf1bee64dcd4794f14d846f10b5c049279be3720",
+  "parts": [
+    {
+      "name": "HOLO-Mobile-v0.6.1.2-diagnostics-kit-part1.bin",
+      "bytes": 41943040,
+      "sha256": "46119f730e218743dfa619bd27a5f8288d9f6b2c8840c93bf99bedda6deed8ad"
+    },
+    {
+      "name": "HOLO-Mobile-v0.6.1.2-diagnostics-kit-part2.bin",
+      "bytes": 41943040,
+      "sha256": "7d7595d43374bb7b7c8cfd01cbb63da74135bc2f14c7253a4756581e283bb8a6"
+    },
+    {
+      "name": "HOLO-Mobile-v0.6.1.2-diagnostics-kit-part3.bin",
+      "bytes": 41943040,
+      "sha256": "c2143b5c72a4200dc3042a439857c300889ed8633cdb95dfeaa5377114699d5d"
+    },
+    {
+      "name": "HOLO-Mobile-v0.6.1.2-diagnostics-kit-part4.bin",
+      "bytes": 34199252,
+      "sha256": "8510d520936f472bf2974d0ce364ff6fadd34490a40102973ed301c3d90cddd6"
+    }
+  ]
+}
